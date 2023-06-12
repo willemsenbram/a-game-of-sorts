@@ -117,7 +117,7 @@ This data is stored in [JSON Lines](https://jsonlines.org/)-formatted files.
 
 More examples and an explanation of the content of each file can be found in the `./dataset` README.
 
-### Images :camera:
+### <a name="images"></a> Images :camera:
 
 The 45 images used in the data collection (as reported in our paper) were taken from various publicly-available datasets.
 Pointers are provided in the `./dataset` README. 
