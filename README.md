@@ -34,6 +34,8 @@ Please cite the following work if you use anything from this repository or from 
 - [:page_facing_up: The Data](#the-data)
   - [Message :mag_right:](#message)
   - [Images :camera:](#images)
+  - [Annotations :bookmark_tabs:](#annotations)
+    - [Mentions :link:](#mentions)
 
 ***
 
@@ -122,6 +124,20 @@ More examples and an explanation of the content of each file can be found in the
 The 45 images used in the data collection (as reported in our paper) were taken from various publicly-available datasets.
 Pointers are provided in the `./dataset` README. 
 A bash script is provided to automatically download the images to `./dataset/images`.
+
+### <a name="annotations"></a> Annotations :bookmark_tabs:
+
+#### <a name="mentions"></a> Mentions :link:
+
+The paper "[Resolving References in Visually-Grounded Dialogue via Text Generation](https://sigdialinlg2023.github.io/static/papers/sigdial/122_Paper.pdf)" contributes, among other things, mention annotations at the span level and has all annotated mentions aligned with the images they denote.
+
+```
+git clone https://github.com/willemsenbram/reference-resolution-via-text-generation.git
+```
+
+See the `./annotations` directory.
+Please cite their work if you make use of these annotations or other material from their repo or paper.
+
 
 <img src="https://raw.githubusercontent.com/willemsenbram/a-game-of-sorts/main/logo.svg" width="25%" height="25%">
 
