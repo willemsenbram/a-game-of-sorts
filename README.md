@@ -136,7 +136,7 @@ git clone https://github.com/willemsenbram/reference-resolution-via-text-generat
 ```
 
 See the `./annotations` directory.
-Please cite their work if you make use of these annotations or other material from their repo or paper.
+Please cite their work if you make use of these annotations or other material from their [repo](https://github.com/willemsenbram/reference-resolution-via-text-generation) or [paper](https://sigdialinlg2023.github.io/static/papers/sigdial/122_Paper.pdf).
 
 
 <img src="https://raw.githubusercontent.com/willemsenbram/a-game-of-sorts/main/logo.svg" width="25%" height="25%">
