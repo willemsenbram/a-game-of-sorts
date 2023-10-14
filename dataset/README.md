@@ -136,7 +136,7 @@ Positions are numbered from left to right, top to bottom.
 | **board_id**       | _str_    | Gameboard ID                                                                                          |
 | **round_number**   | _int_    | Round number; starts at 0 if practice round, otherwise starts at 1                                |
 | **username**         | _str_    | Username of the player to which the mapping belongs                                                                                   |
-| **image_ids**        | _array_  | Array of JSON objects where each object represents a visual stimulus and its position on the gameboard for this player for this round |
+| **mapping**        | _array_  | Array of JSON objects where each object represents a visual stimulus and its position on the gameboard for this player for this round |
 |                      |          |                                                                                                                                       |
 | **position**         | _int_    | Position of the visual stimulus on the gameboard; starts at 1                                                |
 | **image_id**         | _str_    | ID of the image                                                                                                                       |
